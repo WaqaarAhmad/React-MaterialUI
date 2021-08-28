@@ -32,7 +32,7 @@ const Post = ({ img, title }) => {
             {title}
           </Typography>
           <Typography variant="body2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
+            Lorem ipsum dolor sit amet consectetur adipisicing elit lorum ipsum lorum ipsum. Quibusdam
             consectetur earum est.
           </Typography>
         </CardContent>
